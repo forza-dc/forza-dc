@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello 👋, I'm FORZA ST</h1>
 <h3 align="center">A dedicated DevOps & Cybersecurity professional devoted to fortifying data protection and elevating cybersecurity protocols.</h3>
-<h4 align="center">Thank you for taking the time to explore my GitHub repository! This collection is a reflection of my journey and contributions within the realms of cybersecurity and DevOps.
+<h4 align="Left">Thank you for taking the time to explore my GitHub repository! This collection is a reflection of my journey and contributions within the realms of cybersecurity and DevOps.
 
 My career has been woven through diverse roles within the technology landscape over the years. Driven by the pursuit of leveraging technology to conquer challenges and enrich user experiences, I've navigated through troubleshooting intricate technical issues, orchestrating service requests, and implementing robust software solutions. These experiences have honed a robust skill set in the realms of DevOps and cybersecurity, shaping my understanding of the digital sphere.
 
