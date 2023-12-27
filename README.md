@@ -1,4 +1,4 @@
-![logo](https://github.com/forza-dc/forza-dc/blob/main/githhub%20cover.jpg)
+![logo](https://github.com/forza-dc/forza-dc/blob/main/Github%20Final%202.jpg)
 
 <h3 align="center">A dedicated DevOps & Cybersecurity professional devoted to fortifying data protection and elevating cybersecurity protocols.</h3>
 <h4 align="Center">Thank you for taking the time to explore my GitHub repository! This collection is a reflection of my journey and contributions within the realms of cybersecurity and DevOps.
