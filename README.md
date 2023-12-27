@@ -5,7 +5,7 @@
 
 My career has been woven through diverse roles within the technology landscape over the years. Driven by the pursuit of leveraging technology to conquer challenges and enrich user experiences, I've navigated through troubleshooting intricate technical issues, orchestrating service requests, and implementing robust software solutions. These experiences have honed a robust skill set in the realms of DevOps and cybersecurity, shaping my understanding of the digital sphere.
 
-My professional journey led me to discover my genuine passion in the domain of cybersecurity, building upon the foundational knowledge garnered from my IT background. The intricate nature of safeguarding digital systems has always intrigued me, prompting a deeper dive into this specialized field.
+My professional journey led me to discover my genuine passion in the domain of Cybersecurity and DevOps, building upon the foundational knowledge garnered from my IT background. The intricate nature of safeguarding digital systems has always intrigued me, prompting a deeper dive into this specialized field.
 
 I extend an invitation to delve into my GitHub portfolio, which serves as a window into my technical competencies. These projects illuminate my problem-solving methodologies, meticulous attention to detail, and adeptness in risk analysis, showcasing the implementation of tailored mitigation strategies.</h4>
 
