@@ -1,6 +1,5 @@
 ![logo](https://github.com/forza-dc/forza-dc/blob/main/githhub%20cover.jpg)
 
-<h1 align="center">Hello 👋, I'm FORZA ST</h1>
 <h3 align="center">A dedicated DevOps & Cybersecurity professional devoted to fortifying data protection and elevating cybersecurity protocols.</h3>
 <h4 align="Center">Thank you for taking the time to explore my GitHub repository! This collection is a reflection of my journey and contributions within the realms of cybersecurity and DevOps.
 
