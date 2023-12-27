@@ -1,4 +1,4 @@
-![logo](https://github.com/forza-dc/forza-dc/blob/main/LinkedIn%20COver.jpg)
+![logo](https://github.com/forza-dc/forza-dc/blob/main/githhub%20cover.jpg)
 
 <h1 align="center">Hello 👋, I'm FORZA ST</h1>
 <h3 align="center">A dedicated DevOps & Cybersecurity professional devoted to fortifying data protection and elevating cybersecurity protocols.</h3>
