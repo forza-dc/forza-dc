@@ -27,10 +27,10 @@ I extend an invitation to delve into my GitHub portfolio, which serves as a wind
 <h2>  DevOps Projects  </h2>
  <br />
   
-  - [Jenkins-CICD-GamePlay](https://github.com/forza-dc/Jenkins-CICD-GamePlay)
-  - [Wordpress-Dockerization](https://github.com/forza-dc/Wordpress-Dockerization)
+  - [Super Mario Bros Meets Ansible, Jenkins, and Kubernetes](https://github.com/forza-dc/Jenkins-CICD-GamePlay)
   - [Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!](https://github.com/forza-dc/DevSecOps-Project)
-  - [Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5](https://github.com/forza-dc/Youtube-Clone-App)
+  - [AWS Solutions Architect - Main Portfolio Project](https://github.com/forza-dc/AWS-Main-Project)
+  - [Wordpress-Dockerization](https://github.com/forza-dc/Wordpress-Dockerization)
     
  ---
   
