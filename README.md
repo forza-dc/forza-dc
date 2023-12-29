@@ -3,11 +3,10 @@
 <h3 align="center">A dedicated DevOps & Cybersecurity professional devoted to fortifying data protection and elevating cybersecurity protocols.</h3>
 <h4 align="Center">Thank you for taking the time to explore my GitHub repository! This collection is a reflection of my journey and contributions within the realms of cybersecurity and DevOps.
 
-My career has been woven through diverse roles within the technology landscape over the years. Driven by the pursuit of leveraging technology to conquer challenges and enrich user experiences, I've navigated through troubleshooting intricate technical issues, orchestrating service requests, and implementing robust software solutions. These experiences have honed a robust skill set in the realms of DevOps and cybersecurity, shaping my understanding of the digital sphere.
+In my role as a cybersecurity analyst, I constantly monitor network activities, swiftly respond to security incidents, and conduct regular assessments to identify and address vulnerabilities. I implement security policies, conduct compliance audits, and work diligently to enhance the overall security posture.
 
-My professional journey led me to discover my genuine passion in the domain of Cybersecurity and DevOps, building upon the foundational knowledge garnered from my IT background. The intricate nature of safeguarding digital systems has always intrigued me, prompting a deeper dive into this specialized field.
-
-I extend an invitation to delve into my GitHub portfolio, which serves as a window into my technical competencies. These projects illuminate my problem-solving methodologies, meticulous attention to detail, and adeptness in risk analysis, showcasing the implementation of tailored mitigation strategies.</h4>
+As a DevOps engineer, my focus is on automating the software development lifecycle through CI/CD pipelines, implementing Infrastructure as Code (IaC) for scalable and reproducible infrastructure. I actively foster collaboration between development and operations teams, integrate security practices into the development process, and establish robust monitoring and logging mechanisms for efficient system performance.
+</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forza-dc&label=Profile%20views&color=0e75b6&style=flat" alt="forza-dc" /> </p>
