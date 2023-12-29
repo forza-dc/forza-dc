@@ -27,10 +27,15 @@ I extend an invitation to delve into my GitHub portfolio, which serves as a wind
 <h2>  DevOps Projects  </h2>
  <br />
   
-  - [Super Mario Bros Meets Ansible, Jenkins, and Kubernetes](https://github.com/forza-dc/Jenkins-CICD-GamePlay)
-  - [Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!](https://github.com/forza-dc/DevSecOps-Project)
   - [AWS Solutions Architect - Main Portfolio Project](https://github.com/forza-dc/AWS-Main-Project)
-  - [Wordpress-Dockerization](https://github.com/forza-dc/Wordpress-Dockerization)
+
+  - [DevOps - Main Portfolio Project](https://github.com/forza-dc/Petclinic-Microservices-Website-with-Database)
+    
+  - [Super Mario Bros Meets Ansible, Jenkins, and Kubernetes](https://github.com/forza-dc/Jenkins-CICD-GamePlay)
+    
+  - [Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!](https://github.com/forza-dc/DevSecOps-Project)
+    
+  - [WordPress-Dockerization](https://github.com/forza-dc/Wordpress-Dockerization)
     
  ---
   
@@ -39,7 +44,9 @@ I extend an invitation to delve into my GitHub portfolio, which serves as a wind
   <br />
   
   - [Unboxing Active Directory with Group Policy Magic](https://github.com/forza-dc/Unboxing-Active-Directory-with-Group-Policy-Magic)
+    
   - [Embracing a DevSecOps Mentality](https://github.com/forza-dc/Embracing-a-DevSecOps-Mentality)
+    
   - [Building a Malware Analysis Lab at Home](https://github.com/forza-dc/Building-a-Malware-Analysis-Lab-at-Home)
     
  
