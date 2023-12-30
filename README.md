@@ -44,7 +44,7 @@ As a DevOps engineer, my focus is on automating the software development lifecyc
   
   - [Unboxing Active Directory with Group Policy Magic](https://github.com/forza-dc/Unboxing-Active-Directory-with-Group-Policy-Magic)
     
-  - [Embracing a DevSecOps Mentality](https://github.com/forza-dc/Embracing-a-DevSecOps-Mentality)
+  - [Enhancing Web Application Security: DevSecOps and OWASP ZAP ](https://github.com/forza-dc/Enhancing-Web-Application-Security-DevSecOps-and-OWASP-ZAP)
     
   - [Building a Malware Analysis Lab at Home](https://github.com/forza-dc/Building-a-Malware-Analysis-Lab-at-Home)
     
