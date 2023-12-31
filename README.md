@@ -46,7 +46,7 @@ As a DevOps engineer, my focus is on automating the software development lifecyc
     
   - [Enhancing Web Application Security: DevSecOps and OWASP ZAP ](https://github.com/forza-dc/Enhancing-Web-Application-Security-DevSecOps-and-OWASP-ZAP)
     
-  - [Building a Malware Analysis Lab at Home](https://github.com/forza-dc/Building-a-Malware-Analysis-Lab-at-Home)
+  - [Implementing OpenSSH for Secure Remote Communication:Comparing Encrypted Traffic](https://github.com/forza-dc/Implementing-OpenSSH-for-Secure-Remote-Communication-Comparing-Encrypted-Traffic)
     
  
  ---
