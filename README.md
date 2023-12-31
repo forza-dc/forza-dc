@@ -56,7 +56,14 @@ As a DevOps engineer, my focus is on automating the software development lifecyc
  
  ---
   
+ <h2> Java Projects  </h2>
+  
+  <br />
+  
+  - [Java Coffee Shop Webapp](https://github.com/forza-dc/CoffeeShop-Java-Webapp)
+    
  
+ ---
 
 
 - 📝 I regularly write articles on [https://medium.com/@forza100](https://medium.com/@forza100)
