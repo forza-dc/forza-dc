@@ -59,8 +59,6 @@ As a DevOps engineer, my focus is on automating the software development lifecyc
  
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/forza-dc](https://github.com/forza-dc)
-
 - 📝 I regularly write articles on [https://medium.com/@forza100](https://medium.com/@forza100)
 
 - 📄 Know about my experiences [www.forza-dev.com](www.forza-dev.com)
