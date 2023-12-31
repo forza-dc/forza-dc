@@ -38,7 +38,7 @@ As a DevOps engineer, my focus is on automating the software development lifecyc
 
   - [Java eCommerce App Running on a Kubernetes Cluster](https://github.com/forza-dc/Kubernetes-Java-eCommerce)
 
-  - [👨‍💻 Additional projects are available at](https://medium.com/me/stories/public)
+  - [👨‍💻 Additional Projects](https://medium.com/me/stories/public)
     
  ---
   
