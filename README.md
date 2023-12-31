@@ -35,6 +35,8 @@ As a DevOps engineer, my focus is on automating the software development lifecyc
   - [Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!](https://github.com/forza-dc/DevSecOps-Project)
     
   - [WordPress-Dockerization](https://github.com/forza-dc/Wordpress-Dockerization)
+
+  - [Kubernetes-Hosted Java eCommerce App](https://github.com/forza-dc/Kubernetes-Java-eCommerce)
     
  ---
   
