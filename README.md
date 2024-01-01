@@ -55,6 +55,15 @@ As a DevOps engineer, my focus is on automating the software development lifecyc
   - [Automating Policy Compliance Reporting for Improved Cybersecurity Posture](https://github.com/forza-dc/Cybersecurity-GRC-Project)
  
  ---
+
+ <h2> Python Projects  </h2>
+  
+  <br />
+  
+  - [Python Banking Webapp](https://github.com/forza-dc/Banking-Webapp)
+    
+ 
+ ---
   
  <h2> Java Projects  </h2>
   
