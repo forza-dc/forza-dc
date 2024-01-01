@@ -75,6 +75,16 @@ As a DevOps engineer, my focus is on automating the software development lifecyc
  ---
 
 
+ <h2> Web Development Projects  </h2>
+  
+  <br />
+  
+  - [3-Tier Restaurant Webapp](https://github.com/forza-dc/3-Tier-Restaurant-Webapp)
+    
+ 
+ ---
+
+
 - 📝 I regularly write articles on [https://medium.com/@forza100](https://medium.com/@forza100)
 
 - 📄 Know about my experiences [www.forza-dev.com](www.forza-dev.com)
