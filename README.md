@@ -8,7 +8,7 @@
 
 In my role as a cybersecurity analyst, I constantly monitor network activities, swiftly respond to security incidents, and conduct regular assessments to identify and address vulnerabilities. I implement security policies, conduct compliance audits, and work diligently to enhance the overall security posture.
 
-As a DevOps engineer, my focus is on automating the software development lifecycle through CI/CD pipelines, implementing Infrastructure as Code (IaC) for scalable and reproducible infrastructure. I actively foster collaboration between development and operations teams, integrate security practices into the development process, and establish robust monitoring and logging mechanisms for efficient system performance.
+As a multi=cloud platform DevOps engineer, my focus is on automating the software development lifecycle through CI/CD pipelines, implementing Infrastructure as Code (IaC) for scalable and reproducible infrastructure. I actively foster collaboration between development and operations teams, integrate security practices into the development process, and establish robust monitoring and logging mechanisms for efficient system performance.
 </h4>
 
 
