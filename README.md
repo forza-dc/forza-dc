@@ -41,6 +41,9 @@ As a DevOps engineer, my focus is on automating the software development lifecyc
 
   - [Java eCommerce App Running on a Kubernetes Cluster](https://github.com/forza-dc/Kubernetes-Java-eCommerce)
 
+  - [Azure AKS Managed DevOps Project](https://github.com/forza-dc/Azure-DevOps-Project)
+
+
   - [👨‍💻 Additional Projects](https://medium.com/me/stories/public)
     
  ---
