@@ -59,6 +59,8 @@ As a multi=cloud platform DevOps engineer, my focus is on automating the softwar
   - [Implementing OpenSSH for Secure Remote Communication: Comparing Encrypted Traffic](https://github.com/forza-dc/Implementing-OpenSSH-for-Secure-Remote-Communication-Comparing-Encrypted-Traffic)
 
   - [Automating Policy Compliance Reporting for Improved Cybersecurity Posture](https://github.com/forza-dc/Cybersecurity-GRC-Project)
+    
+  - [Cybersecurity Compliance Automation Tool Demo](https://github.com/forza-dc/Cybersecurity-Compliance-Automation-Demo)
  
  ---
 
