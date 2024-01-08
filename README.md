@@ -33,7 +33,7 @@ As a multi=cloud platform DevOps engineer, my focus is on automating the softwar
 
   - [DevOps - Main Portfolio Project](https://github.com/forza-dc/Petclinic-Microservices-Website-with-Database)
 
-  - [Ansible - Portfolio Project(https://github.com/forza-dc/Ansible-Portfolio-Project/tree/main)
+  - [Ansible - Portfolio Project](https://github.com/forza-dc/Ansible-Portfolio-Project/tree/main)
     
   - [Super Mario Bros Meets Ansible, Jenkins, and Kubernetes](https://github.com/forza-dc/Jenkins-CICD-GamePlay)
     
