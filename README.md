@@ -43,6 +43,8 @@ As a multi=cloud platform DevOps engineer, my focus is on automating the softwar
 
   - [Azure AKS Managed DevOps Project](https://github.com/forza-dc/Azure-DevOps-Project)
 
+  - [GitHub Actions CICD Project](https://github.com/forza-dc/GitHub-Actions-CICD)
+
 
   - [👨‍💻 Additional Projects](https://medium.com/me/stories/public)
     
