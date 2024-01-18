@@ -56,6 +56,12 @@ As a multi=cloud platform DevOps engineer, my focus is on automating the softwar
   
   <br />
   
+  - [TryHackMe.com - SOC Level 2 Certification](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0AV4D7DRTF.png)
+
+  - [TryHackMe.com - Offensive Pentesting Certification](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IDPLBB1BFR.png)
+
+  - [LetsDefend.io - SOC Analyst Certification](https://app.letsdefend.io/certificate/show/32894f11-6804-40c2-8813-8b78473ec213)
+  
   - [Unboxing Active Directory with Group Policy Magic](https://github.com/forza-dc/Unboxing-Active-Directory-with-Group-Policy-Magic)
     
   - [Enhancing Web Application Security: DevSecOps and OWASP ZAP ](https://github.com/forza-dc/Enhancing-Web-Application-Security-DevSecOps-and-OWASP-ZAP)
