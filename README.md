@@ -37,7 +37,7 @@ As a multi=cloud platform DevOps engineer, my focus is on automating the softwar
     
   - [Super Mario Bros Meets Ansible, Jenkins, and Kubernetes](https://github.com/forza-dc/Jenkins-CICD-GamePlay)
     
-  - [Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!](https://github.com/forza-dc/DevSecOps-Project)
+  - [Deploy a Netflix Clone on Cloud using Jenkins - DevSecOps Project!](https://github.com/forza-dc/DevSecOps-Project)
     
   - [WordPress-Dockerization](https://github.com/forza-dc/Wordpress-Dockerization)
 
