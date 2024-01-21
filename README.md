@@ -57,7 +57,7 @@ As a multi=cloud platform DevOps engineer, my focus is on automating the softwar
   
   <br />
 
-  - [Building a SOC Analysis Lab Environment At Home - Main Portfolio Project](https://github.com/forza-dc/SOC-Lab-at-Home)
+  - [Building a Home SOC Analysis Lab Environment - Main Portfolio Project](https://github.com/forza-dc/SOC-Lab-at-Home)
     
   - [TryHackMe.com - SOC Level 2 Certification](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0AV4D7DRTF.png)
 
